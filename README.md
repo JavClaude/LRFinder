@@ -1,9 +1,5 @@
 #### LRFinder (LR)
 
-LRFinder pour Keras
-
-Variation exponentielle du Learning rate entre deux bornes (min, max)
-
 ```python
 from keras.models import Sequential
 from keras.layers import Embedding, LSTM, Bidirectional, Flatten, Dense
